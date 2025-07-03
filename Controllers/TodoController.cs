@@ -1,9 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using TodoApi.Models;
-using TodoApi.Dtos;
-using TodoApi.Data;
-using System.Threading.Tasks;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
+using TodoApi.Data;
+using TodoApi.Dtos;
+using TodoApi.Models;
 
 namespace TodoApi.Controllers
 {
@@ -14,10 +15,12 @@ namespace TodoApi.Controllers
         private static readonly List<TodoItem> _tasks = new();
         private static int _idCounter = 1;
         private readonly AppDbContext _context;
+        private readonly IMapper _mapper;
 
-        public TodoController(AppDbContext context)
+        public TodoController(AppDbContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         [HttpGet]
@@ -37,11 +40,7 @@ namespace TodoApi.Controllers
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            var item = new TodoItem
-            {
-                Title = dto.Title,
-                IsCompleted = dto.IsCompleted
-            };
+            var item = _mapper.Map<TodoItem>(dto);
 
             _context.TodoItems.Add(item);
             await _context.SaveChangesAsync();
@@ -58,8 +57,7 @@ namespace TodoApi.Controllers
             var item = await _context.TodoItems.FindAsync(id);
             if (item is null) return NotFound();
 
-            item.Title = dto.Title;
-            item.IsCompleted = dto.IsCompleted;
+           _mapper.Map(dto, item); // esto actualiza las propiedades del objeto existente
 
             await _context.SaveChangesAsync();
 

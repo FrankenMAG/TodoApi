@@ -1,11 +1,16 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using TodoApi.Data;
+using TodoApi.Mappings;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Agrega EF Core con SQLite
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlite("Data Source=todo.db"));
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
+
+if (builder.Environment.EnvironmentName != "Testing")
+{
+    builder.Services.AddDbContext<AppDbContext>(options =>
+        options.UseSqlite("Data Source=todo.db"));
+}
 
 // Add services to the container.
 
@@ -22,3 +27,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+// Esta línea permite que WebApplicationFactory<TodoApi.Program> funcione
+public partial class Program { }

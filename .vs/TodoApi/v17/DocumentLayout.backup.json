@@ -3,8 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi\\migrations\\20250702020509_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|solutionrelative:migrations\\20250702020509_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1869086-F7A1-4180-95D3-66A9118DB98C}|..\\TodoApi.Test\\TodoApi.Test.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi.test\\todocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869086-F7A1-4180-95D3-66A9118DB98C}|..\\TodoApi.Test\\TodoApi.Test.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi.test\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +17,27 @@
       "RelativeMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|solutionrelative:mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1869086-F7A1-4180-95D3-66A9118DB98C}|..\\TodoApi.Test\\TodoApi.Test.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi.test\\todoapi.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|solutionrelative:todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi\\migrations\\20250702020509_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|solutionrelative:migrations\\20250702020509_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi\\dtos\\todoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +46,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi\\dtos\\todocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|solutionrelative:dtos\\todocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|solutionrelative:todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|c:\\users\\martin\\documents\\portafolio .net\\restful\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52471468-72B6-47D7-8BFC-FE34F639C4B4}|TodoApi.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,45 +60,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250702020509_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Migrations\\20250702020509_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250702020509_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Migrations\\20250702020509_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250702020509_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TodoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi.Test\\TodoControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\TodoApi.Test\\TodoControllerTests.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi.Test\\TodoControllerTests.cs",
+              "RelativeToolTip": "..\\TodoApi.Test\\TodoControllerTests.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwGcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T02:05:09.536Z",
+              "WhenOpened": "2025-07-03T01:57:20.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi.Test\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "..\\TodoApi.Test\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi.Test\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "..\\TodoApi.Test\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T01:59:20.641Z",
+              "WhenOpened": "2025-07-03T01:56:53.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T01:59:00.564Z",
+              "DocumentIndex": 5,
+              "Title": "TodoApi.Test",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi.Test\\TodoApi.Test.csproj",
+              "RelativeDocumentMoniker": "..\\TodoApi.Test\\TodoApi.Test.csproj",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi.Test\\TodoApi.Test.csproj",
+              "RelativeToolTip": "..\\TodoApi.Test\\TodoApi.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T01:54:48.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "TodoUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Dtos\\TodoUpdateDto.cs",
               "RelativeDocumentMoniker": "Dtos\\TodoUpdateDto.cs",
@@ -98,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "TodoCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Dtos\\TodoCreateDto.cs",
               "RelativeDocumentMoniker": "Dtos\\TodoCreateDto.cs",
@@ -112,40 +125,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TodoApi",
+              "Title": "TodoApi.csproj",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\TodoApi.csproj",
               "RelativeDocumentMoniker": "TodoApi.csproj",
               "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\TodoApi.csproj",
               "RelativeToolTip": "TodoApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-02T01:43:30.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TodoController.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
               "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Controllers\\TodoController.cs",
               "RelativeToolTip": "Controllers\\TodoController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwE4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T01:25:14.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T02:09:37.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "Models\\TodoItem.cs",
               "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Models\\TodoItem.cs",
               "RelativeToolTip": "Models\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T01:24:21.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:59:20.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:59:00.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250702020509_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Migrations\\20250702020509_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250702020509_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Martin\\Documents\\Portafolio .NET\\RESTful\\TodoApi\\Migrations\\20250702020509_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250702020509_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T02:05:09.536Z",
               "EditorCaption": ""
             }
           ]
